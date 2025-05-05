@@ -55,9 +55,7 @@ I'm a **Software Engineer** with a solid foundation in backend development and a
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34a853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,excel,googlecloud" />
-</div>
+
 ---
 
 ## 📊 GitHub Stats
